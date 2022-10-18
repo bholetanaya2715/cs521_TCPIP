@@ -1,0 +1,7 @@
+.App {
+    min-height: 100vh;
+    display: flex;
+    background-color: #E5E8FF;
+    background-position: center;
+    background-size: cover;
+  }
